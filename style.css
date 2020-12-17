@@ -151,8 +151,9 @@ p {
     border-width: 0;
     border-radius:30px;;
     outline: none;
-    font-size: 25px;
-    vertical-align: middle;
+    font-size: 18px;
+    text-align:center;
+    
     border: 1px solid #dcdcdc;
     box-shadow: inset 0px 1px 0px 0px #ffffff;
     background: linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
