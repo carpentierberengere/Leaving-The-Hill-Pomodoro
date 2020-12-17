@@ -9,9 +9,11 @@ A webpage where you can set a [Pomodoro timer](https://en.wikipedia.org/wiki/Pom
 
 
 
-src ➡️ instructions
+src ➡️ [instructions](https://github.com/becodeorg/bxl-hopper-1-25/tree/master/The%20Hill/projects/99.leaving_the_hills)
 
 link to project ➡️ click HERE  
 
 # Preview
+
+![preview_timer](./img/prevtimer.png)
 
